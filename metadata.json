@@ -1,0 +1,7 @@
+{
+  "name": "UrduScribe AI",
+  "description": "Convert Urdu audio files or voice recordings into accurate Urdu text transcripts using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
